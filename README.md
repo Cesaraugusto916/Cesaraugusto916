@@ -1,4 +1,4 @@
-# 👋 Hello! I'm César Augusto
+# 👋 Hello! I'm César
 
 I'm a tech enthusiast in constant development, driven by curiosity, dedication, and the desire to create solutions that generate real impact.
 
@@ -6,24 +6,37 @@ Although my academic background is in Theology, I've always had a strong interes
 
 ---
 
-## 🎓 Education & Specializations
+## 📊 Data Analytics Student — EBAC  
+*British School of Creative Arts and Technology*
 
-- Postgraduate student in Church History  
-- “Data Analyst Professional” course – EBAC  
-- Completed courses on **Curso em Vídeo**:  
-  - Python 3 – Module 1  
-  - MySQL  
-  - Git & GitHub  
-- Certifications in **Excel (Basic, Intermediate, and Advanced)** – Fundação Bradesco
+Currently enrolled in the **Data Analytics** program at EBAC, with a hands-on approach focused on the complete data analysis cycle — from data collection and cleaning to visualization and insights.
+
+---
+
+## 📘 Completed Courses — Curso em Vídeo
+
+- **Python 3 – Module 1:** Programming Fundamentals  
+- **MySQL:** Database Fundamentals  
+- **Git & GitHub:** Version Control Essentials
+
+### ✅ Key Skills Developed:
+
+- **Python for Data Analysis**  
+
+- **SQL and Databases**  
+
+- **Google Sheets for Data Analytics**  
+
+- **Technology Fundamentals**  
 
 ---
 
 ## 💻 Technical Skills
 
 - Data analysis and automation  
-- Data manipulation with Excel  
+- Data manipulation with Excel and Google Sheets  
 - Git and GitHub version control  
-- Experience with Linux-based systems (Linux Mint 22)
+- Experience with Linux-based systems (Linux Mint 22.1)  
 
 ---
 
@@ -48,27 +61,7 @@ I served for 6 years in church leadership roles, which helped me develop strong 
 
 ---
 
-## 🎯 Objective
-
-I'm currently looking for opportunities in the tech field as a way to support my academic journey while applying and growing my technical skills in real-world projects. I'm committed to continuous learning and eager to contribute to projects that make a difference.
-
----
-
 ## 🌐 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-profile-here)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/yourusername)
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
