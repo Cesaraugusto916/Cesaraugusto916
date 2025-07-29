@@ -1,10 +1,10 @@
 # 👋 Hi, I'm César
 
 I'm a Data Analytics student passionate about transforming data into insights.  
-With a background in Theology and a growing interest in technology, I build projects that connect creativity, analysis, and impact.
+With a background in Theology and a growing interest in technology, I`m learning how to build projects that connect creativity, analysis, and real impact.
 
 📍 Based in São Paulo, Brazil  
-✉️ Reach me at cesar@email.com
+✉️ Reach me at cesar916augusto@gmail.com
 
 ---
 
